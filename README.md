@@ -15,12 +15,12 @@
 </br>
 Результат работы проекта:</br>
 1) Экземпляры Remittance в отформатированном виде (всего 18183 экземпляра):</br>
-![](master/Screenshots/ParsingResult.jpg)</br>
+<img src="Screenshots/ParsingResult.jpg"/>
 2) Результат 1-ого запроса на вывод суммы всех переводов (где это возможно) в долларах за 2020 год, сгруппированных по месяцам:</br>
-![image](Screenshots/Query1.jpg)
+<img src="Screenshots/Query1.jpg"/>
 3) Результат 2-ого запроса на вывод среднего размера перевода в долларах, а также их количество, за каждый уникальный период (230 строк):</br>
-![](Screenshots/Query2.jpg)
+<img src="Screenshots/Query2.jpg"/>
 4) Результат 3-его запроса на вывод максимальных и минимальных переводов в 2014, 2016 и 2020 годах:</br>
-![](/Screenshots/Query3.jpg)
+<img src="Screenshots/Query3.jpg"/>
 5) Результат создания столбчатой диаграммы на основе полученных данных в 1-ом запросе:</br>
-![](Screenshots/Histogram.jpg)
+<img src="Screenshots/Histogram.jpg"/>
